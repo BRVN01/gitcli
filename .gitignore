@@ -4,7 +4,7 @@
 valores.txt
 # Qualquer arquivo que tenha .txt (na raiz):
 /*.txt
-# apenas o arquivo rm.log (na raiz):
+# Apenas o arquivo rm.log (na raiz):
 /rm.log
 # Qualquer coisa dentro de (log/):
 logs/**
