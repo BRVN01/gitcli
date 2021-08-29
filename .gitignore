@@ -1,16 +1,1 @@
-<<<<<<< HEAD
 # novo gitignore
-=======
-### Ignora os conteudos abaixo ###
-#
-# Ignora o arquivo valores.txt não importa onde ele esteja:
-valores.txt
-# Qualquer arquivo que tenha .txt (na raiz):
-/*.txt
-# Apenas o arquivo rm.log (na raiz):
-/rm.log
-# Qualquer coisa dentro de (log/):
-logs/**
-# Qualquer coisa que tenha log dentro (*/log):
-**/log
->>>>>>> 86611ecf79518053e11498d5ad49ff144983ae91
